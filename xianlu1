@@ -3,7 +3,7 @@
 //QQ频道：『乐享汇fans』     QQ群：621886232     630383903
 "spider":"./jar/spider.jar",
 "wallpaper":"https://api.likepoems.com/img/bing",
-"warningText":"王老师自主开发~",
+"warningText":"lxhfans:接口为公益接口,切勿上当受骗!",
   "lives": [
     {
       "name": "直播",
@@ -29,15 +29,15 @@
 
 
 "sites":[
-{"key":"DB","name":"王老师自主开发","type":3,"api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js"},
+{"key":"DB","name":"主页","type":3,"api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js"},
 {"key": "csp_KungFu404","name":"🎦阿狸设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"http://weixine.link:33/alibaba.jar"},
-{"key":"TX","name":"、腾讯（官方）","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","ext":"http://weixine.link:33/js/tengxun.js"},
-{"key":"SG","name":"搜狗(官方)","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","ext":"http://weixine.link:33/js/caigou.js"},
+{"key":"TX","name":"腾腾(官)","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","ext":"http://weixine.link:33/js/tengxun.js"},
+{"key":"SG","name":"狗狗(官)","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","ext":"http://weixine.link:33/js/caigou.js"},
 
-{"key":"IQY","name":"爱奇艺(官方)","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","ext":"http://weixine.link:33/js/aiqiyi.js"},
-{"key":"YK","name":"优酷(官方)","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","ext":"http://weixine.link:33/js/youku.js"},
-{"key":"MG","name":"芒果(官方)","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","ext":"http://weixine.link:33/js/mangguo.js"},
-{"key":"sohu","name":"搜狐(官方)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"parse:并发"},
+{"key":"IQY","name":"爱爱(官)","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","ext":"http://weixine.link:33/js/aiqiyi.js"},
+{"key":"YK","name":"优优(官)","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","ext":"http://weixine.link:33/js/youku.js"},
+{"key":"MG","name":"果果(官)","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","ext":"http://weixine.link:33/js/mangguo.js"},
+{"key":"sohu","name":"狐狐(官)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"parse:并发"},
 
 {"key":"T4_wo","name":"玩偶┃T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"YT","name":"探探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
